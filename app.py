@@ -27,4 +27,4 @@ def get_input(index_):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5001)
